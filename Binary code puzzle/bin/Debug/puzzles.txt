@@ -1,0 +1,39 @@
+Puzzle 0 //Title of the puzzle
+[	   //Start of the puzzle
+'1','','0','0','','',  	//1st row
+'','','','','0','',		//2nd row
+'0','','0','','0','',		//3rd row
+'0','','','1','','',		//4th row
+'','','','','','0',		//5th row
+'0','','1','1','','',		//6th row
+]       //End of the puzzle
+
+Puzzle 1 //Title of the puzzle
+[	   //Start of the puzzle
+'1','','','','','1',  	//1st row
+'','0','','1','','0',		//2nd row
+'','','1','','','',		//3rd row
+'','0','','0','1','',		//4th row
+'','1','','','1','',		//5th row
+'0','','','','','',		//6th row
+]       //End of the puzzle
+
+Puzzle 2 //Title of the puzzle
+[	   //Start of the puzzle
+'1','1','','','1','',  	//1st row
+'','','1','','0','0',	//2nd row
+'','','','','','',	//3rd row
+'','0','','0','1','',	//4th row
+'1','','0','','1','',	//5th row
+'','1','','0','','1',	//6th row
+]       //End of the puzzle
+
+Puzzle 3 //Title of the puzzle
+[	   //Start of the puzzle
+'1','','1','','0','',  	//1st row
+'','1','','','','0',	//2nd row
+'1','','','0','','0',	//3rd row
+'','1','','1','','',	//4th row
+'1','','','','','1',	//5th row
+'','','1','','','0',	//6th row
+]       //End of the puzzle

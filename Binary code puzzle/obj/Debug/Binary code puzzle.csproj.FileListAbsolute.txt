@@ -1,0 +1,10 @@
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\bin\Debug\Binary code puzzle.exe.config
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\bin\Debug\Binary code puzzle.exe
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\bin\Debug\Binary code puzzle.pdb
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\obj\Debug\Binary code puzzle.csproj.AssemblyReference.cache
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\obj\Debug\Binary_code_puzzle.Form1.resources
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\obj\Debug\Binary_code_puzzle.Properties.Resources.resources
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\obj\Debug\Binary code puzzle.csproj.GenerateResource.cache
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\obj\Debug\Binary code puzzle.csproj.CoreCompileInputs.cache
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\obj\Debug\Binary code puzzle.exe
+D:\School\IT\C#\Binary code puzzle\Binary code puzzle\obj\Debug\Binary code puzzle.pdb
