@@ -9,7 +9,7 @@ An easy puzzle-game created with C#
  </div>
  
 * Complete the puzzle  
-<img src="https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20185321.jpg" height="500">
+<img src="https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20195800.jpg" height="500">
 
 * Click the "check" button.
   * If each cell of the table is green, means that solve complete the puzzle correctly
@@ -32,7 +32,7 @@ An easy puzzle-game created with C#
 * Click the "clear" button if you want to remove all the color in background (note it will **not** remove 0 and 1)
    <div style="float">
    <img src="https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20184936.jpg" height="500">
-   <img src="https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20185321.jpg" height="500">
+   <img src="https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20195800.jpg" height="500">
     </div>
     
 * Click "Next puzzle" to solve a new puzzle.
