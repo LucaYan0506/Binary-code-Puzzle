@@ -5,15 +5,15 @@ An easy puzzle-game created with C#
 Click [here](https://github.com/LucaYan0506/Binary-code-Puzzle/releases/download/v0.1.0/Installer.exe) to download the game (for windows). 
 #### Chrome
 If you are using Google Chrome, it may block download.   
-![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20201613.jpg)  
+![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20202953.jpg)  
 To fix this problem, please click arrow up symbol (as shown in the image below)Then click "keep".  
 ![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20201656.jpg)  
 
 #### Edge
 If you are using Microsoft Edge, it may block download.   
-![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20201613.jpg)  
+![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20202803.jpg)  
 To fix this problem, please click arrow up symbol (as shown in the image below)Then click "keep".  
-![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20201656.jpg)  
+![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20202859.jpg)  
 
 ## How to play the game
 * Click "The rules of the puzzle" to see the rule  
