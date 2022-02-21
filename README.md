@@ -6,13 +6,13 @@ Click [here](https://github.com/LucaYan0506/Binary-code-Puzzle/releases/download
 #### Chrome
 If you are using Google Chrome, it may block download.   
 ![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20202953.jpg)  
-To fix this problem, please click arrow up symbol (as shown in the image below)Then click "keep".  
+To fix this problem, please click arrow up symbol (as shown in the image below) then click "keep".  
 ![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20201656.jpg)  
 
 #### Edge
 If you are using Microsoft Edge, it may block download.   
 ![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20202803.jpg)  
-To fix this problem, please click arrow up symbol (as shown in the image below)Then click "keep".  
+To fix this problem, please click arrow up symbol (as shown in the image below) then click "keep".  
 ![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20202859.jpg)  
 
 ## How to play the game
