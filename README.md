@@ -44,6 +44,8 @@ An easy puzzle-game created with C#
     </div>
 
 ## Puzzles
-Currently there are only 4 puzzles. Those are saved in the puzzles.txt
+Currently there are only 4 puzzles. These are saved in the puzzles.txt.
 ## How to download the game
 Click [here](https://github.com/LucaYan0506/Binary-code-Puzzle/releases/download/v0.1.0/Installer.exe) to download the game (for windows)
+When you download it, the web browser may block it.
+![image]()
