@@ -74,13 +74,19 @@ namespace Binary_code_puzzle
                 if (MessageBox.Show("File 'puzzles' not found, click Ok to see how to fix this problem", "Error", MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk) == DialogResult.OK)
                     System.Diagnostics.Process.Start("http://www.google.com");
             }
+
+            collapse_legend.Start();
+            collapse_rule.Start();
         }
 
         private void Textbox_keypress(object sender, KeyPressEventArgs e)
         {
-            TextBox curr_textbox = (TextBox)sender;
+            if (e.KeyChar != '\b')
+            {
+                TextBox curr_textbox = (TextBox)sender;
+                e.Handled = type_disabled || curr_textbox.Text.Length > 0;
+            }
 
-             e.Handled = type_disabled || curr_textbox.Text.Length > 0;
         }
 
         private void Textbox_keydown(object sender, KeyEventArgs e)
