@@ -72,7 +72,8 @@ namespace Binary_code_puzzle
             else
             {
                 if (MessageBox.Show("File 'puzzles' not found, click Ok to see how to fix this problem", "Error", MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk) == DialogResult.OK)
-                    System.Diagnostics.Process.Start("http://www.google.com");
+                    System.Diagnostics.Process.Start("https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/README.md#error-message");
+                Close();
             }
 
             collapse_legend.Start();
