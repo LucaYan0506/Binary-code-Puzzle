@@ -68,6 +68,14 @@ After the installation, a copy of it will be on desktop
    <img src="https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20185526.jpg" height="500">
     </div>
 
+## Error message
+If the application says "File 'puzzles' not found" click [here](https://github.com/LucaYan0506/Binary-code-Puzzle/releases/download/v0.1.0/puzzles.txt) to download the file  
+![image](https://user-images.githubusercontent.com/83918638/155179773-a1964fce-dc0b-4325-9f0a-b33415680010.png)  
+Move it to `C:\Program Files (x86)\Binary_code_puzzle` or wherever your application is saved.  
+To know where your application is saved right click on the app (on desktop) and click "open file location"  
+![image](https://user-images.githubusercontent.com/83918638/155173511-62796df8-91fb-46b0-adf2-925d96445fe3.png)  
+Then move puzzles.txt to that folder  
+![image](https://user-images.githubusercontent.com/83918638/155173712-742fca8b-0226-4d85-8750-701de4730b98.png)  
 ## Puzzles
 Currently there are only 4 puzzles. These are saved in the puzzles.txt.  
 puzzles.txt can be found `C:\Program Files (x86)\Binary_code_puzzle`.  
