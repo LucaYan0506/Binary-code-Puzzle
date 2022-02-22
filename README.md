@@ -69,4 +69,21 @@ After the installation, a copy of it will be on desktop
     </div>
 
 ## Puzzles
-Currently there are only 4 puzzles. These are saved in the puzzles.txt.
+Currently there are only 4 puzzles. These are saved in the puzzles.txt.  
+puzzles.txt can be found `C:\Program Files (x86)\Binary_code_puzzle`.  
+If you can't find it, right click on the app (on desktop) and click "open file location"  
+![image](https://user-images.githubusercontent.com/83918638/155173511-62796df8-91fb-46b0-adf2-925d96445fe3.png)  
+There you should find puzzles.txt  
+![image](https://user-images.githubusercontent.com/83918638/155173712-742fca8b-0226-4d85-8750-701de4730b98.png)  
+Click it and you can edit, add and delete puzzle.  
+If you receive this message or similar  
+![image](https://user-images.githubusercontent.com/83918638/155176622-5ec77299-1238-4696-8112-290ca774eebd.png)  
+Right click on the file and click on properties  
+![image](https://user-images.githubusercontent.com/83918638/155176805-0c6a3e9e-97ab-4692-ad20-5990e1086039.png)  
+Click on Security and the click edit  
+![image](https://user-images.githubusercontent.com/83918638/155176975-300b31b0-289c-483b-9799-2334b094d345.png)  
+For each group and user names tick "allow" "write". Then click "apply"  
+![image](https://user-images.githubusercontent.com/83918638/155177166-21ae84f7-bfe5-4e44-9b76-0be501aaad62.png)  
+
+
+
