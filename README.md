@@ -2,7 +2,7 @@
 An easy puzzle-game created with C#  
 
 ## How to download the game
-Click [here](https://github.com/LucaYan0506/Binary-code-Puzzle/releases/download/v0.1.0/Installer.exe) to download the game (for windows). 
+Click [here](https://github.com/LucaYan0506/Binary-code-Puzzle/releases/download/v0.1.1/Binary.code.puzzle.exe) to download the game (for windows). 
 #### Chrome
 If you are using Google Chrome, it may block download.   
 ![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20202953.jpg)    
